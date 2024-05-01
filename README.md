@@ -8,6 +8,6 @@ The files required are
 2. penguins_mass.csv
 3. penguins_cytb.fasta
 
-This folder contains the Jupyter Notebook which contains a  carefully annotated execution of  the code already provided in sequence_translate.py
+This folder contains my Jupyter Notebook, which contains a  carefully annotated execution of  the code already provided in sequence_translate.py
 
 This folder also contains the " penguins_mass_cytb.csv" file.
